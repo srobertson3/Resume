@@ -14,6 +14,7 @@ Attending a 14-week .NET coding bootcamp learning to create dynamic web-based so
 
 ## Technical Experience                                                                                                                 
 **Vending Machine Application:** Developed a command line application in C# using file.io
+
 **Campground Reservation Application:** Developed a command line application in C# that accesses and edits a database using MS SQL
 
 ## Professional Experience                                                                                                           
