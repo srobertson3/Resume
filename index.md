@@ -15,7 +15,7 @@ Technical Experience
 Vending Machine Application: Developed a command line application in C# using file.io
 
 ## Professional Experience                                                                                                           
-##### The Catholic Credit Union   February 2017 - Present
+### The Catholic Credit Union   February 2017 - Present
 Member Service Representative
 Implemented new filing system to manage loan files
 Maintain and balance office checkbook
