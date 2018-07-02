@@ -9,10 +9,7 @@ Database Programming: Visual Basic, table design and creation, SQL queries and D
 Development tools and techniques: Git, unit testing, integration testing, Visual Studio 2017, Agile
 
 ## Education                                                                                                                                   
-#### Tech Elevator: Cleveland, OH  	May 2018-Present
-Attending a 14-week .NET coding bootcamp learning to create dynamic web-based software systems using the .NET programming language
-
-#### Technical Experience                                                                                                                 
+###### Technical Experience                                                                                                                 
 Vending Machine Application: Developed a command line application in C# using file.io
 Campground Reservation Application: Developed a command line application in C# that accesses and edits a database using MS SQL
 
