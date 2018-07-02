@@ -28,12 +28,12 @@ Authored new office procedures handbook in consultation and other departments
 Supervised team in day-to-day office operations
 Educated patients on their rights and insured they grasped their insurance coverage and costs for treatment
 
-**Bed, Bath & Beyond	                               November 2010-March 2015**
+**Bed, Bath & Beyond	                             November 2010-March 2015**
 Customer Service Personnel/Bridal Consultant
 Assisted customer in locating and purchasing their desired items
 Provided guidance to customers who were unsure about what product would best meet their needs
 
-**Martinizing Dry Cleaners	                          May 2007-August 2009**
+**Martinizing Dry Cleaners	                        May 2007-August 2009**
 Customer Service
 Handled open and close of business including balancing of cash drawer
 Assisted customers in the pick-up and drop-off of items they needed to have cleaned
